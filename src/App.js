@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import axios from "axios";
+import Contact from "./contact.js";
 
 function App() {
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const response = await axios.get(
+          "/macros/s/AKfycbw2Qy5Qc0kKJGGVpKFO87RFR8xJT353BNU27yFwyylAfFeWJPsVWiHapAweAz_MQH3xyA/exec"
+        );
+        console.log("Data received:", response.data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    }
+    fetchData();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Contact />
     </div>
   );
 }
