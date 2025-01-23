@@ -1,4 +1,4 @@
-# ✍️ 고객의 문의사항을 GoogleSpreadSheet에 저장하는 웹앱 ✍️
+# ✍️ 고객의 문의사항을 GoogleSheet에 저장하는 웹앱 ✍️
 <img src="![image](https://github.com/user-attachments/assets/647c5f72-bf72-4fd9-afa0-ad658537a7b0)
 " /> </br>
 
