@@ -10,22 +10,22 @@
 ## 🔥 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄**
 
 ### 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱
-- 정보 과잉으로 IT 트렌드 및 키워드 이해가 어려움
-- 체계적인 정보 아카이빙 기능 부족 (기사를 읽고 생각을 정리하거나 관심 있는 기사를 모아보기 어려움)
+![image](https://github.com/user-attachments/assets/adad1428-541b-4612-9f5d-023ae3fc00d4)
+
+- 브랜딩 기업 3RO는 스타트업 브랜딩, 기업 브랜딩, 소상공인 브랜딩 등을 중심으로 활동하는 스타트업 디자인 기업임
+- 클라이언트의 문의사항을 수집하는 시스템이 필요함
+- 기존에 사용하는 카카오톡 채팅 혹은 인스타그램 디엠 대신 문의사항을 자동으로 저장하는 웹앱이 필요함
+- 문의사항 전용 웹앱은 기업의 전문성과 이미지를 드러낼 수 있기도 함
 
 
 ### 𝗚𝗼𝗮𝗹𝘀
-- AI 기반 IT 뉴스 요약 및 워드 클라우드를 통한 IT트렌드를 시각화하여 사용자의 이해를 도움
-- IT전반적으로 핫한 기사뿐만 아니라 사용자의 관심 직무 관련 기사 제안함 (개인화된 추천)
-- 마인드맵 형식의 스크랩 기능, 형광펜 및 메모 기능 등 생각을 정리하고 아카이빙할 수 있는 기능 제공
-- 해당 기사와 유사한 기사들이 하단에 추천되어 비슷한 기사를 바로 확인할 수 있음.
-- 매일 네이버 IT/과학 뉴스 데이터 크롤링으로 실시간 최신 데이터 반영
+- 고객이 성함, 연락처, 이메일, 문의사항을 입력해서 제출할 수 있는 기능
+- 사용자가 제출한 데이터를 GoogleSpreadSheet에 제출 시간과 함께 저장
+- 관리자(기업)가 GoogleSpreadSheet의 데이터를 쉽게 관리하고 조회 가능 
 
 ### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 
-- ReadIT(리딧): `Read + IT`의 합성어로 `IT 뉴스를 읽다` 라는 뜻을 지님
-- 사용자가 관심 직무를 선택하면
-- 해당 직무와 관련 있는 IT기사를 빠르게 모아 요약 ✍️
+- 고객의 문의사항을 수집하고 GoogleSpreadSheet에 저장하는 웹앱
 
 </br>
 
@@ -43,7 +43,7 @@
 
 ## 🏆 **𝗔𝘄𝗮𝗿𝗱𝘀**
 
-![image](https://github.com/user-attachments/assets/b67040f0-c280-4d6a-a698-f90d1f207477)
+숙명여자대학교 캠퍼스타운 사업단 MVP 개발지원 서포터즈 잇(IT)다 5기 수료 
 
 
 </br>
@@ -54,10 +54,7 @@
 |----------------|---------------------------------------------|   
 | **[Frontend](https://github.com/Team4-ReadIT/readIT_frontend)**   | React Native, TypeScript                         |
 | **[Backend](https://github.com/Team4-ReadIT/ReadIT-Server)**    | Spring Boot, Java   
-| **[Data](https://github.com/Team4-ReadIT/ReadIT-Data)** |  Meta, Scikit-learn, Pandas, Numpy, Colab, Python
 | **Database**   | AWS S3, MySQL(RDS)                       |
-| **Deploy & CI/CD**      | Jenkins, Docker, AWS EC2  |
-| **Open API**        | Meta API    |
 
 </br>
 
