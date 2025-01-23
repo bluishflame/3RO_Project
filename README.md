@@ -1,6 +1,6 @@
 # ✍️ 고객의 문의사항을 GoogleSheet에 저장하는 웹앱 ✍️
-<img src="![image](https://github.com/user-attachments/assets/647c5f72-bf72-4fd9-afa0-ad658537a7b0)
-" /> </br>
+![image](https://github.com/user-attachments/assets/a790d34d-e08e-4947-a466-7058ddeb6b7c)
+</br>
 
 > 숙명여자대학교 캠퍼스타운 사업단 MVP 개발지원 서포터즈 잇(IT)다 5기 </br>
 > 기간 : 2024.03 ~ 2024.06 </br>
