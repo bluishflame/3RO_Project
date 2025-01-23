@@ -1,4 +1,4 @@
-# ✍️ ReadIT(리딧): 관심 직무의 IT 기사를 요약해드립니다! ✍️
+# ✍️ 고객의 문의사항을 GoogleSpreadSheet에 저장하는 웹앱 ✍️
 <img src="https://github.com/user-attachments/assets/eef20497-568d-4114-9ccc-5e2605b58cc0" /> </br>
 
 > 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
