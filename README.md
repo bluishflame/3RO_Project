@@ -2,8 +2,8 @@
 <img src="![image](https://github.com/user-attachments/assets/647c5f72-bf72-4fd9-afa0-ad658537a7b0)
 " /> </br>
 
-> 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
-> 기간 : 2024.11.2 ~ 2024.11.9 </br>
+> 숙명여자대학교 캠퍼스타운 사업단 MVP 개발지원 서포터즈 잇(IT)다 5 </br>
+> 기간 : 2024.03 ~ 2024.06 </br>
 
 </br>
 
