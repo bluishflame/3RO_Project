@@ -33,9 +33,7 @@
 
 | **웹 화면**                                                   | **앱 화면**                          | 
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/8448da54-db88-4767-bdd0-b693b441aba6)
- | ![image](https://github.com/user-attachments/assets/567260ca-38eb-43e5-88c3-7b64988b0845)
- | 
+| ![image](https://github.com/user-attachments/assets/8448da54-db88-4767-bdd0-b693b441aba6)| ![image](https://github.com/user-attachments/assets/567260ca-38eb-43e5-88c3-7b64988b0845) | 
 
 </br>
 
