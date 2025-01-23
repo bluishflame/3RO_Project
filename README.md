@@ -33,7 +33,9 @@
 
 | **웹 화면**                                                   | **앱 화면**                          | 
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![11](https://github.com/user-attachments/assets/3dafb36c-7c1e-4d1d-be75-4e2a2a7838af) | ![12](https://github.com/user-attachments/assets/b8e93af6-5e56-48ce-828b-c5a35d5e8f64) | 
+| ![image](https://github.com/user-attachments/assets/8448da54-db88-4767-bdd0-b693b441aba6)
+ | ![image](https://github.com/user-attachments/assets/567260ca-38eb-43e5-88c3-7b64988b0845)
+ | 
 
 </br>
 
@@ -48,17 +50,9 @@
 
 | **분야**       | **사용 기술**                                 | 
 |----------------|---------------------------------------------|   
-| **[Frontend](https://github.com/Team4-ReadIT/readIT_frontend)**   | React Native, TypeScript                         |
-| **[Backend](https://github.com/Team4-ReadIT/ReadIT-Server)**    | Spring Boot, Java   
-| **Database**   | AWS S3, MySQL(RDS)                       |
-
-</br>
-
-##  📊 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀**
-
-### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
-
-<img src="https://github.com/user-attachments/assets/fc37a4b1-8833-4e27-a95d-e24bc94e9dad" alt="아키텍처 ReadIT" width="70%">
+| **[Frontend](https://github.com/Team4-ReadIT/readIT_frontend)**   | HTML, CSS, JavaScript                         |
+| **[Backend](https://github.com/Team4-ReadIT/ReadIT-Server)**    | Node.js  
+| **Database**   | GoogleSpreadSheet                      |
 
 </br>
 
